@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file..
 
+# [0.9.2](https://github.com/EddyLeon/EMS/releases/tag/v0.9.2) - (2019-05-20)
+
+- Agregado la relacion de los usuarios y los transportes y gastos.
+- Agregado los reportes de transportes.
+- Correccion de errores.
+
 # [0.9.1](https://github.com/EddyLeon/EMS/releases/tag/v0.9.1) - (2019-04-30)
 
 - Agregado la pestaña de Intermediarios a administracion.
