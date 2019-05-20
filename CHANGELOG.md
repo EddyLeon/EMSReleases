@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file..
 
-# [0.9.2](https://github.com/EddyLeon/EMS/releases/tag/v0.9.2) - (2019-05-20)
+# [0.9.2](https://github.com/EddyLeon/EMS/releases/tag/v0.9.2) - (2019-05-21)
 
 - Agregado la relacion de los usuarios y los transportes y gastos.
 - Agregado los reportes de transportes.
